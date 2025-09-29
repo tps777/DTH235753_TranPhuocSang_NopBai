@@ -8,7 +8,7 @@ while True:
   print(n,"Là số nguyên tố")
  else:
   print(n,"Không là số nguyên tố")
- hoi=input("Tiếp không Thím?(c/k):")
+ hoi=input("Tiếp tục không ?(c/k):")
  if hoi is "k":
   break
 print("BYE!")
